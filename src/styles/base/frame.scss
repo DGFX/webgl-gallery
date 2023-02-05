@@ -1,0 +1,11 @@
+.nav {
+	margin: 15px 0;
+
+	position: fixed;
+	z-index: 1000;
+	bottom: 2rem;
+	right: 2rem;
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+}
