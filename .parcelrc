@@ -6,8 +6,18 @@
     "...",
     "parcel-reporter-static-files-copy"
   ],
+  "transformers": {
+    "*.glsl": [
+      "...",
+      "@parcel/transformer-glsl"
+    ],
+    "*.scss": [
+      "...",
+      "@parcel/transformer-sass"
+    ]
+  },
   "optimizers": {
-    "*.{glsl, js}": [
+    "*.js": [
       "...",
       "@parcel/optimizer-terser"
     ]

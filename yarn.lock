@@ -667,7 +667,7 @@
     lightningcss "^1.16.1"
     nullthrows "^1.1.1"
 
-"@parcel/transformer-glsl@^2.8.3":
+"@parcel/transformer-glsl@2.8.3":
   version "2.8.3"
   resolved "https://registry.yarnpkg.com/@parcel/transformer-glsl/-/transformer-glsl-2.8.3.tgz#773ab11b753db3933ee8f1c146b20ccf8ebe4c4a"
   integrity sha512-epX9X0tnaAqwhEKr07pbYbTMXYYNJ9JSK/lJmgRbyncPgnRsOS9GfG8KRvlDRjyht21JURt+HWqlbAusApQfMw==
@@ -2073,7 +2073,7 @@ parcel-reporter-static-files-copy@^1.3.0:
   dependencies:
     "@parcel/plugin" "^2.0.0-beta.1"
 
-parcel@^2.8.3:
+parcel@latest:
   version "2.8.3"
   resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.8.3.tgz#1ff71d7317274fd367379bc7310a52c6b75d30c2"
   integrity sha512-5rMBpbNE72g6jZvkdR5gS2nyhwIXaJy8i65osOqs/+5b7zgf3eMKgjSsDrv6bhz3gzifsba6MBJiZdBckl+vnA==
